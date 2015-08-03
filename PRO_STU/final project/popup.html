@@ -1,0 +1,46 @@
+<!-- set the background for the popup -->
+<!-- span is used to combine differnt attributes  -->
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <meta charset="utf-8">
+    <style>
+        li {
+            margin: 0;
+            padding: 0;
+            width: auto;
+        }       
+        li span {
+            width: auto;
+            display: block;
+            padding: 0.6em 1.2em;
+            cursor: default;
+        } 
+        li span:hover {
+            background-color: #EFEFEF;
+        }
+        li img {
+            float: left;
+            margin-right: 12px
+        }
+    </style>
+    <script src="popup.js"></script>
+</head>
+
+<!-- create unorder list id for the popup and relate them to the picture in the file-->
+
+<body style="font:12px arial,helvetica,sans-serif;margin:0">
+    <ul style="list-style:none;margin:0.5em 0;padding:0;width:150px">
+        <li id="liFacebook"><span><img src="facebook_16.png"/>Facebook</span>
+        </li>
+        <li id="liTwitter"><span><img src="twitter-bird-16x16.png"/>Twitter</span>
+        </li>
+        <li id="liGooglePlus"><span><img src="gplus-16.png"/>Google+</span>
+        </li>
+        <li id="liEmail"><span><img src="mail_icon_16.png"/>Email</span>
+        </li>
+    </ul>
+</body>
+ 
+</html>

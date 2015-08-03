@@ -1,0 +1,2192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="4777">
+<author>hzhang91</author>
+<date>2015-03-20T14:20:11.673685Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/composer.json</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/unitTest</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/phpunit.phar</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/Parser.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/www.iml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_classmap.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/ClassLoader.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/DirectClass.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/LogEntry.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/index.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/phpunit.phar</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_namespaces.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social01.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social02.png</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/images</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social03.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/UnitTest.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social04.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/iframe.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/test_list.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/default.css</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/test_log.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/projects.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/.idea</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/test.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/XMLToArray.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/FileClass.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/.idea/libraries</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/composer.phar</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot01.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot02.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot03.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_real.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot04.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/libraries/sass_stdlib.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/testplan.txt</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_psr4.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/autoload.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/.idea/scopes</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/workspace.xml</path>
+</paths>
+<msg>sfwsasa</msg>
+</logentry>
+<logentry
+   revision="4776">
+<author>hzhang91</author>
+<date>2015-03-20T14:18:44.045870Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hzhang91/Assignment3.0</path>
+</paths>
+<msg>ssss</msg>
+</logentry>
+<logentry
+   revision="4722">
+<author>hzhang91</author>
+<date>2015-03-20T04:41:51.235808Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/composer.json</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/unitTest</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/Parser.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/www.iml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_classmap.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/ClassLoader.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/LogEntry.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/index.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_namespaces.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social01.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social02.png</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/images</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social03.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/UnitTest.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/social04.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/iframe.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/default.css</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/projects.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/.idea</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/DirectoryClass.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/test.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/XMLToArray.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/FileClass.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/.idea/libraries</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/composer.phar</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot01.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot02.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot03.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_real.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/images/screenshot04.jpg</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/libraries/sass_stdlib.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/composer/autoload_psr4.php</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor/autoload.php</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/.idea/scopes</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment3.0/unitTest/vendor</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment3.0/.idea/workspace.xml</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="4118">
+<author>hzhang91</author>
+<date>2015-03-13T13:44:09.728540Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/JsonSave.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/champaignData</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/DrawMap.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/newJson</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/Route.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/__init__.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/StatisticalInfo.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/SpecificInfo.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/Menu.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/csAirData</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/City.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/RouteStatistics.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/newJson.txt</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment2.1/csAir</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/newJson.txt</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/Parse.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/ListCities.py</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment2.1/csAir/__pycache__</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/PythonTest.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.1/csAir/Editing.py</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="3582">
+<author>hzhang91</author>
+<date>2015-03-06T11:45:30.284442Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/ContinentTest.py</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/UserQuerying.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/UserQueryingExpand.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/CityInfo.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/csAirData</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/QueryTest.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/TextInterFace.py</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment2.0/src</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/ParesTest.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/Parser.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/QueryingData.py</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment2.0/src/__init__.py</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="3002">
+<author>hzhang91</author>
+<date>2015-02-27T14:41:17.986684Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hzhang91/Assignment1.1/html</path>
+<path
+   kind="dir"
+   action="D">/hzhang91/Assignment1.1/latex</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="3001">
+<author>hzhang91</author>
+<date>2015-02-27T14:34:09.694414Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/tab_s.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2blank.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1TopControlPanel.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/bdwn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/search_r.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_6b.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_6d.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1QueenPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessView.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1FerzPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2mnode.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_74.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_62.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1Empty8x8Game.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_64.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1PawnPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_74.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2doc.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/close.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/dir_1dd4d85fb749a77824c7c965bb9e6393.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessTests_1_1ChessPieceTests.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessSquareButton.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1BishopPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/enumchessGame_1_1MoveStatus-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1FerzPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1KnightPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1PawnPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessBoard.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/functions_func.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_61.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_71.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_73.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ArchBishopPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_62.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_63.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_65.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_77.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_6b.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1RookPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_6d.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ControlPanel.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/tabs.css</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/hierarchy.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/hierarchy.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_70.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_66.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_72.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_74.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1BottomControlPanel.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessGame.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/dir_b48f26e4f258b0575e7e37853206f925.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/functions.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2mlastnode.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_61.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1KingPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_73.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessView.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_6c.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1KnightPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_61.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessSquareButton.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1StandardChessGame.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessImageIcons.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_69.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_6d.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/tab_h.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/search.css</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessTests_1_1ChessBoardTests.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_69.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessTests_1_1ChessBoardTests.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1BottomControlPanel.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_70.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/nav_f.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessImageIcons-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_70.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ControlPanel.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1RookPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/search.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessGame.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1QueenPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1StandardChessGame.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessControl.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_66.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_63.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_64.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1BottomControlPanel-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_66.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1FerzPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_77.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/dir_b48f26e4f258b0575e7e37853206f925.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ArchBishopPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1Empty8x8Game.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/dynsections.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/refman.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1StandardChessGame-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_70.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_63.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ControlPanel.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/bc_s.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_65.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_75.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_77.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_61.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2mo.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classes.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1Empty8x8Game-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_73.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_75.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessControl.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/enumchessGame_1_1ChessPiece_1_1Color-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1BottomControlPanel.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_6c.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_6d.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_62.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1TopControlPanel.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_62.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_72.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessView.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/nomatches.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/sync_off.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/jquery.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_74.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/sync_on.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_70.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1StandardChessGame.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/mag_sel.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1PawnPiece.pdf</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/html/search</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1Empty8x8Game.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1KingPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1TopControlPanel.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2plastnode.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_65.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/annotated.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1BishopPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2link.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2cl.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_71.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_71.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessTests_1_1ChessPieceTests-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/tab_a.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2folderclosed.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessBoard.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1QueenPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1RookPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1KingPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1TopControlPanel-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessTests_1_1ChessGuiTests.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1KnightPiece.eps</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1QueenPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_65.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_67.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_6b.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_6b.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/search_l.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessControl.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_62.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/nav_g.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_74.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/enumchessGame_1_1MoveStatus.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2folderopen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/annotated.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessSquareButton.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessTests_1_1ChessGuiTests-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessGame.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1BottomControlPanel.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2pnode.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_77.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_62.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_74.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1KnightPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessTests_1_1ChessGuiTests.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1FerzPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1StandardChessGame.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_71.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessView-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1QueenPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ArchBishopPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1BishopPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/open.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1KingPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_63.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_62.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/enumchessGame_1_1MoveStatus.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1Empty8x8Game.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1KnightPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_67.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_6b.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessSquareButton-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_69.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_71.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessSquareButton.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessView.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/doxygen.css</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessMove.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1PawnPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessBoard-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1Empty8x8Game.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_6b.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_72.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/Makefile</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_64.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_66.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_66.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1PawnPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessGame.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2splitbar.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2ns.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1KnightPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2vertline.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ArchBishopPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1FerzPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1Position.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_61.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_63.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessImageIcons.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_73.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/tab_b.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_75.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_61.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/dir_1dd4d85fb749a77824c7c965bb9e6393.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessGame-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_63.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ControlPanel.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_75.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessMove.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_77.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_6d.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/search_m.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/nav_h.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_66.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessControl.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_70.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1BottomControlPanel.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_72.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessTests_1_1ChessBoardTests-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/closed.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessMove-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_70.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_72.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ArchBishopPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessView.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1TopControlPanel.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/dir_54d27d04e136008ddb91ae6985c864ab.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1StandardChessGame.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_6c.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessSquareButton.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ControlPanel-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_63.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1PawnPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/enumchessGame_1_1ChessPiece_1_1Color.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessControl-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_73.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1TopControlPanel.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1KingPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ArchBishopPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1RookPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2lastnode.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1BishopPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessMVC.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ControlPanel.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_67.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/doxygen.sty</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_69.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_6d.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/functions_vars.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1RookPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/dir_54d27d04e136008ddb91ae6985c864ab.tex</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/latex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/index.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1QueenPiece.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessGame.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_72.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1Position.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1RookPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGui_1_1ChessMVC-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_63.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1ChessPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1FerzPiece.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_62.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/doxygen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessTests_1_1ChessPieceTests.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_64.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1BishopPiece.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1Position-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/ftv2node.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/enumchessGame_1_1ChessPiece_1_1Color.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/classes_65.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_65.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1BishopPiece-members.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_67.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_77.html</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_70.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessControl.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/all_71.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/functions_73.js</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGame_1_1KingPiece.eps</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/latex/classchessGui_1_1ChessMVC.tex</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/classchessGame_1_1ChessPiece.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/html/search/variables_6c.html</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="3000">
+<author>hzhang91</author>
+<date>2015-02-27T14:32:45.932345Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2998">
+<author>hzhang91</author>
+<date>2015-02-27T14:27:51.375601Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src/chessTests</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/MoveStatus.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackFerz.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessView.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/FerzPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/testcase.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteFerz.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/StandardChessGame.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessControl.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/chessImages</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessTests/ChessPieceTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ArchBishopPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackBishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackKnight.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/BishopPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/KnightPiece.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src/chessGui</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackKing.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessSquareButton.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/KingPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/TopControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/Empty8x8Game.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteKing.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/.project</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackPawn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/PawnPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessImageIcons.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackRook.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/RookPiece.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src/chessGame</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/.classpath</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackQueen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteRook.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/QueenPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessMVC.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessTests/ChessGuiTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackArchbishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessTests/ChessBoardTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteArchbishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessMove.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/BottomControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/Position.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/doxygen</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2992">
+<author>hzhang91</author>
+<date>2015-02-27T14:15:19.032932Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hzhang91/Assignment1.1</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2991">
+<author>hzhang91</author>
+<date>2015-02-27T13:58:07.045548Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/testcase.pdf</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2950">
+<author>hzhang91</author>
+<date>2015-02-27T03:49:24.135470Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/MoveStatus.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/PawnPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackFerz.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/ChessView.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteFerz.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/RookPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/.classpath</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackQueen.png</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.2/chessImages</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/ChessMVC.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessTests/ChessPieceTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackBishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackKnight.png</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/ChessMove.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackKing.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/ChessSquareButton.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/TopControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/Empty8x8Game.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/BottomControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteKing.png</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.2/src/chessTests</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackPawn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/ControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/FerzPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/ChessImageIcons.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackRook.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/StandardChessGame.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.2/src/chessGame</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGui/ChessControl.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/QueenPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteRook.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessTests/ChessGuiTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/blackArchbishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/ArchBishopPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessTests/ChessBoardTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/KnightPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/BishopPiece.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.2/src/chessGui</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/chessImages/whiteArchbishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/KingPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/chessGame/Position.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.2/src/.project</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2351">
+<author>hzhang91</author>
+<date>2015-02-21T00:03:47.175814Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/testplanandstaticscreenshot.pdf</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2336">
+<author>hzhang91</author>
+<date>2015-02-20T22:54:41.999889Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2012">
+<author>hzhang91</author>
+<date>2015-02-19T21:54:21.332315Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src/chessTests</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/MoveStatus.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackFerz.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessView.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/FerzPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteFerz.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/StandardChessGame.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessControl.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/chessImages</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessTests/ChessPieceTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ArchBishopPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackBishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackKnight.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/BishopPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/KnightPiece.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src/chessGui</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackKing.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessSquareButton.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/KingPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/TopControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/Empty8x8Game.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteKing.png</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackPawn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/PawnPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessImageIcons.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackRook.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/RookPiece.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src/chessGame</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackQueen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteRook.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/QueenPiece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/ChessMVC.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessTests/ChessGuiTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/blackArchbishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessTests/ChessBoardTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/chessImages/whiteArchbishop.png</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/ChessMove.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGui/BottomControlPanel.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/src/chessGame/Position.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="2011">
+<author>hzhang91</author>
+<date>2015-02-19T21:53:56.514226Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hzhang91/Assignment1</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="1175">
+<author>hzhang91</author>
+<date>2015-02-13T14:44:36.265642Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/pawn.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/Rook.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment1</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/Knight.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/Piece.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/TestFailure.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/Board.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/King.java</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment1/KingTest.java</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="539">
+<author>hzhang91</author>
+<date>2015-02-06T15:12:26.710420Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/stack_queue_test.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/terminal.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/terminal.h</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment0/src</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/lex_test</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/binary_op.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/binary_op.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/plus.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/plus.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/.circ_array.tcc.swn</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/ast_test.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/.circ_array.tcc.swo</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/node.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/parser.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/unary_op.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/parser.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/unary_op.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/stack_queue_test</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/circ_array.tcc</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/divide.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/Makefile</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/circ_array_test</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/divide.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/queue.tcc</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/uplus.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/uplus.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/parse_test.cpp</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment0/include</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/circ_array_test.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/ast_test</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/circ_array.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/uminus.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/token.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/uminus.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/token.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/times.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/times.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/queue.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/lex_test.cpp</path>
+<path
+   kind="dir"
+   action="A">/hzhang91/Assignment0</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/stack.tcc</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/lex.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/number.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/lex.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/number.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/minus.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/minus.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/exponent.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/src/operation.cpp</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/parse_test</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/exponent.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/operation.h</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/partners.txt</path>
+<path
+   kind="file"
+   action="A">/hzhang91/Assignment0/include/stack.h</path>
+</paths>
+<msg>f</msg>
+</logentry>
+<logentry
+   revision="56">
+<author>root</author>
+<date>2015-02-04T16:45:16.083708Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhang91</path>
+</paths>
+<msg>created directory hzhang91</msg>
+</logentry>
+</log>

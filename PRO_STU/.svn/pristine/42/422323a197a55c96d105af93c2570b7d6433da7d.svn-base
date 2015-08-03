@@ -1,0 +1,69 @@
+chrome.contextMenus.onClicked.addListener(function(a, d) { // d is title
+    if ("Share-G1" == a.menuItemId) { //facebook
+        var b = a.pageUrl, //pageurl
+            e = !1,
+            c = null, //final url
+            f = null;
+        a.mediaType ? ("image" == a.mediaType && (f = a.srcUrl), b = a.srcUrl) : a.linkUrl ? b = a.linkUrl : a.selectionText || (e = !0, c = "http://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(b) + "&t=" + encodeURIComponent(d.title));
+        e || (c = "http://www.facebook.com/sharer/sharer.php?s=100&p[url]=" + encodeURIComponent(b) + "&p[title]=" + encodeURIComponent(d.title), f && (c += "&p[images][0]=" + encodeURIComponent(f)),
+            a.selectionText && (b = a.selectionText, 1024 < b.length && (b = b.substring(0, 1024)), c += "&p[summary]=" + encodeURIComponent(b)));
+        chrome.windows.create({
+            url: c,
+            width: 600,
+            height: 460,
+            type: "popup",
+            focused: !0
+        })
+    } else "Share-G2" == a.menuItemId ? (b = a.pageUrl, a.mediaType ? b = a.srcUrl : a.linkUrl && (b = a.linkUrl), chrome.windows.create({
+        url: "https://twitter.com/intent/tweet?url=" + encodeURIComponent(b) + "&text=" + encodeURIComponent(d.title), //twitter
+        width: 600,
+        height: 460,
+        type: "popup",
+        focused: !0
+    })) : "Share-G3" == a.menuItemId ? (b = a.pageUrl, a.mediaType ?
+        b = a.srcUrl : a.linkUrl && (b = a.linkUrl), chrome.windows.create({
+            url: "https://plus.google.com/share?url=" + encodeURIComponent(b), //google+
+            width: 600,
+            height: 460,
+            type: "popup",
+            focused: !0
+        })) : "Share-G4" == a.menuItemId && (b = a.pageUrl, a.mediaType ? b = a.srcUrl : a.linkUrl && (b = a.linkUrl), a.selectionText &&
+        (b = a.selectionText + "\n\n" + b), "0" != localStorage.ogmail ? (c = "https://mail.google.com/", (e = localStorage.gappsdomain) && (c += "a/" + e + "/"), c += "mail/?view=cm&fs=1&tf=1&su=" + encodeURIComponent(d.title) + "&body=" + encodeURIComponent(b), chrome.windows.create({
+            url: c, //gmail
+            width: 640,
+            height: 480,
+            type: "popup",
+            focused: !0
+        })) : chrome.tabs.update(d.id, {
+            url: "mailto:?subject=" + encodeURIComponent(d.title) + "&body=" + encodeURIComponent(b)
+        }))
+});
+
+//Create the listener
+chrome.runtime.onInstalled.addListener(function() {
+    "0" != localStorage.ocontext && (chrome.contextMenus.create({
+        title: "Share",
+        contexts: ["all"],
+        id: "Share-Gparent" //main button to click
+    }), "0" != localStorage.ofacebook && chrome.contextMenus.create({
+        title: "Facebook",
+        contexts: ["all"],
+        parentId: "Share-Gparent", //show the child button when click on parent id
+        id: "Share-G1"
+    }), "0" != localStorage.otwitter && chrome.contextMenus.create({
+        title: "Twitter",
+        contexts: ["all"],
+        parentId: "Share-Gparent",
+        id: "Share-G2"
+    }), "0" != localStorage.ogoogleplus && chrome.contextMenus.create({
+        title: "Google+",
+        contexts: ["all"],
+        parentId: "Share-Gparent",
+        id: "Share-G3"
+    }), "0" != localStorage.oemail && chrome.contextMenus.create({
+        title: "Email",
+        contexts: ["all"],
+        parentId: "Share-Gparent",
+        id: "Share-G4"
+    }))
+});

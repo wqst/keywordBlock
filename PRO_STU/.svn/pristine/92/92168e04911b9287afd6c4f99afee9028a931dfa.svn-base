@@ -1,0 +1,113 @@
+/**
+ * Dialog
+ */
+
+.close-modal-background-target {
+    width: 100%;
+}
+
+#filter-dialog-container.modal-container {
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+}
+
+#filter-dialog .modal-header {
+  padding: 15px 15px 14px;
+  border-bottom: 1px solid #e8e8e8;
+  height: 18px;
+  background-color: #eee;
+}
+
+#filter-dialog .modal-close {
+  right: 10px;
+  top: 13px;
+}
+
+#filter-dialog .modal-footer {
+  background-color: #eee;
+}
+
+#filter-dialog fieldset {
+    margin: 10px 0px;
+    width: 490px !important;
+}
+
+#filter-dialog fieldset .btn {
+  font-weight: normal;
+}
+
+#filter-dialog fieldset input[type="text"] {
+    width: 12em;
+}
+
+#filter-dialog fieldset input[type="text"] {
+    border-bottom-left-radius: 3px 3px;
+    border-bottom-right-radius: 3px 3px;
+    border-top-left-radius: 3px 3px;
+    border-top-right-radius: 3px 3px;
+}
+
+#filter-dialog fieldset input[type="text"] {
+    border: 1px solid #AAA;
+    padding: 4px 2px;
+}
+
+#filter-dialog .checkbox {
+  display: block;
+  margin-top: 15px;
+  margin-left: 3px;
+}
+
+#filter-dialog .checkbox input {
+  margin-right: 5px;
+}
+
+.btn.filter-list-label {
+  float:left;
+  margin-bottom: 2px;
+}
+
+div.filter-list-label {
+  padding-top: 7px;
+}
+
+.filter-terms-list, .filter-users-list {
+  width: 455px !important;
+}
+
+#filter-dialog .modal-footer {
+  padding-top: 10px;
+  height: 25px;
+}
+
+.modal-footer .filter-dialog-footer-left {
+  left: 10px;
+  float: left;
+}
+
+.modal-footer .filter-dialog-footer-right {
+  right: 10px;
+  float: right;
+}
+
+a.filter-bookmarklet {
+  cursor: move;
+  border: 1px outset #ddd;
+  padding: 2px;
+  background: #ddd;
+  font-size: 11px;
+  color: #000 !important;
+  margin-right: 110px;
+}
+
+.es a.filter-bookmarklet {
+  margin-right: 80px;
+}
+
+a.filter-bookmarklet {
+  margin-right: 90px;
+}
+
+.es a.filter-bookmarklet {
+  margin-right: 55px;
+}
